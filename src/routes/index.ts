@@ -1,4 +1,4 @@
-import { MainRoutesController } from './routes-controller'
+import { MainRoutesController } from './main-routes-controller'
 import { app } from '@/app'
 
 export default async function routes() {
